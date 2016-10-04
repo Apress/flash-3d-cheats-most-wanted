@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<menus>
+	<level1 title="home">
+		<level2 title="news">
+			<level3 title="current" />
+			<level3 title="archive" />
+		</level2>
+		<level2 title="links">
+			<level3 title="business">
+				<level4 title="domestic" />
+				<level4 title="international" />
+			</level3>
+			<level3 title="personal" />
+			<level3 title="others" />
+		</level2>
+		<level2 title="gallery">
+			<level3 title="images">
+				<level4 title="photographs">
+					<level5 title="color">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+					<level5 title="black and white">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+				</level4>
+				<level4 title="illustration">
+					<level5 title="3D">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+					<level5 title="vector">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+					<level5 title="virtual paint">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+					<level5 title="live media">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+				</level4>
+				<level4 title="animation">
+					<level5 title="3D">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>					
+					<level5 title="Flash">
+						<level6 title="broadband" />
+						<level6 title="modem" />
+					</level5>
+				</level4>					
+			</level3>
+			<level3 title="Websites">
+				<level4 title="commerce" />
+				<level4 title="entertainment" />
+				<level4 title="educational" />
+				<level4 title="government" />
+			</level3>
+			<level3 title="presentations">
+				<level4 title="video" />
+				<level4 title="3D" />
+				<level4 title="kiosk" />
+			</level3>
+		</level2>
+	</level1>
+	<level1 title="history">
+		<level2 title="news" />
+		<level2 title="past sites" />
+	</level1>
+	<level1 title="contact">
+		<level2 title="virtual" />
+		<level2 title="physical" />
+	</level1>
+</menus>
