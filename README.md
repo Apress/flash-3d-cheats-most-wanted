@@ -1,4 +1,4 @@
-#Apress Source Code
+# Apress Source Code
 
 This repository accompanies [*Flash 3D Cheats Most Wanted*](http://www.apress.com/9781590592212) by Gerald YardFace, Aral Balkan, James Dean Palmer, Jared Tarbell, Brian Monnone, Anthony Eden, and Josh Dura (Apress, 2003).
 
@@ -6,10 +6,10 @@ This repository accompanies [*Flash 3D Cheats Most Wanted*](http://www.apress.co
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
-##Releases
+## Releases
 
 Release v1.0 corresponds to the code in the published book, without corrections or updates.
 
-##Contributions
+## Contributions
 
 See the file Contributing.md for more information on how you can contribute to this repository.
